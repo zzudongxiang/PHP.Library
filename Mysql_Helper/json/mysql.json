@@ -1,0 +1,7 @@
+{
+    "Host": "localhost",
+    "UserName": "root",
+    "PassWord": "******",
+    "DB_Name": "mysql",
+    "Encode": "utf8"
+}
